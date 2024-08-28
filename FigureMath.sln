@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureMath", "FigureMath.csproj", "{953204E1-7CE8-4792-9275-76E5840B5B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953204E1-7CE8-4792-9275-76E5840B5B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953204E1-7CE8-4792-9275-76E5840B5B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953204E1-7CE8-4792-9275-76E5840B5B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953204E1-7CE8-4792-9275-76E5840B5B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E811E6B-53D0-4072-841A-DDAB279E18F2}
+	EndGlobalSection
+EndGlobal
